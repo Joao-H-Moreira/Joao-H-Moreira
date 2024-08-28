@@ -1,4 +1,4 @@
-## **Olá sou João Henrique** 👋
+# **Olá sou João Henrique** 👋
 
 Sou um estudante da area da tecnologia com paixão pelo desenvolvimento de software. Minha jornada começou com HTML, CSS e JavaScript, criando interfaces intuitivas. Com formação em Análise e Desenvolvimento de Sistemas, crio soluções inteligentes para atender às necessidades dos usuários. Minha proficiência em MySQL e design de bancos de dados me permite estruturas eficazes. Com o Visual Studio Code, busco constante aprendizado e me adapto a diferentes ferramentas. 
 
@@ -15,6 +15,10 @@ Sou um estudante da area da tecnologia com paixão pelo desenvolvimento de softw
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+## 🎓 Formação:
+
+Senai - Desenvolvimento de Sistemas - Cursando
+Cruzeiro do Sul - Analise e Desenvolvimento de Sistemas - Concluído
 
 ### 👨🏻Sobre mim:
 - 📫 Atualmente estou estudando no Senai Morvan Figueiredo.
