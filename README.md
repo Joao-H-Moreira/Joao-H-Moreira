@@ -5,7 +5,7 @@ Sou um estudante da area da tecnologia com paixão pelo desenvolvimento de softw
 ## 📱Meus contatos:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-de-assis-moreira-22a6ab1ba/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/jao_hm_/)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white])(https://www.instagram.com/jao_hm_/)
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) (11) 949094912.
 
 ## 🖥️Conhcimentos:
