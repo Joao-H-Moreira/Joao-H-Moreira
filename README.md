@@ -32,4 +32,5 @@ Sou um estudante da area da tecnologia com paixão pelo desenvolvimento de softw
 
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-H-Moreira&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Moreira&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![imagem](https://vocesabianime.com/wp-content/uploads/2022/09/Ep-16-de-Pokemon-Journeys-gerou-um-Novo-Meme-do-Gengar.jpg)
