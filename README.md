@@ -18,6 +18,7 @@ Sou um estudante da area da tecnologia com paixão pelo desenvolvimento de softw
 ## 🎓 Formação:
 
 Senai - Desenvolvimento de Sistemas - Cursando
+
 Cruzeiro do Sul - Analise e Desenvolvimento de Sistemas - Concluído
 
 ### 👨🏻Sobre mim:
