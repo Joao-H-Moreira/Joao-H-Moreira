@@ -38,4 +38,3 @@ Cruzeiro do Sul - Analise e Desenvolvimento de Sistemas - Concluído
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-H-Moreira&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Moreira&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![imagem]([https://pbs.twimg.com/media/EnKc5r1WEAEQISf.png](https://static.wikia.nocookie.net/pokepediabr/images/0/02/Gengar_de_Ash.png/revision/latest/scale-to-width-down/1200?cb=20211012194700&path-prefix=pt-br))
