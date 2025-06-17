@@ -1,6 +1,15 @@
 # **Olá sou João Henrique** 👋
 
-Sou um estudante da area da tecnologia com paixão pelo desenvolvimento de software. Minha jornada começou com HTML, CSS e JavaScript, criando interfaces intuitivas. Com formação em Análise e Desenvolvimento de Sistemas, crio soluções inteligentes para atender às necessidades dos usuários. Minha proficiência em MySQL e design de bancos de dados me permite estruturas eficazes. Com o Visual Studio Code, busco constante aprendizado e me adapto a diferentes ferramentas. 
+Sou um Desenvolvedor Júnior em formação, com sólida base técnica em linguagens como Java, TypeScript, HTML e CSS, certificado pela Alura. Também possuo conhecimento prático em bancos de dados SQL Server, desenvolvimento web acessível e otimização de SEO, além de conceitos-chave em Qualidade de Software e Arquitetura de Computadores.
+
+Tenho grande interesse em tecnologias de nuvem e concluí diversas certificações no Google Cloud Platform, com foco em infraestrutura, redes, segurança, aprendizado de máquina e balanceamento de carga. Complemento minha formação com conhecimento em hardware (Cisco) e Internet das Coisas (IoT), o que me proporciona uma ampla compreensão de como os sistemas operam, desde o hardware até o nível de aplicação.
+Link para o meu portfólio: https://joao-h-moreira-portfolio.vercel.app
+
+
+I am a Junior Developer in training, with a solid technical foundation in languages such as Java, TypeScript, HTML, and CSS, certified by Alura. I also have hands-on knowledge of SQL Server databases, accessible web development, and SEO optimization, along with key concepts in Software Quality and Computer Architecture.
+
+I have a strong interest in cloud technologies and have completed multiple certifications in Google Cloud Platform, focusing on infrastructure, networking, security, machine learning, and load balancing. I further complement my education with knowledge in hardware (Cisco) and the Internet of Things (IoT), giving me a broad understanding of how systems operate from hardware to application level.
+Link to my portfolio: https://joao-h-moreira-portfolio.vercel.app
 
 ## 📱Meus contatos:
 
